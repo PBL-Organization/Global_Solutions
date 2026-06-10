@@ -414,6 +414,8 @@ Ao executar o programa, o sistema deverá:
 
 # Link do Vídeo
 
+[Assista ao vídeo de apresentação da Missão Aurora](https://youtu.be/9shzZZkXiy4)
+
 
 # Conclusão
 
